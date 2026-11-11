@@ -1,0 +1,9 @@
+build/
+.vs/
+.idea/
+deps/
+data/bin/adb.exe
+data/bin/AdbWinApi.dll
+data/bin/AdbWinUsbApi.dll
+data/bin/scrcpy-server
+*.user
